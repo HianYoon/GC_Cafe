@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.cafekiosk.view.gui.MainFrame" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/MainFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="710" width="602" x="1351" y="1702"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.cafekiosk.view.gui.MainMenu" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/MainMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2400" y="2190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.cafekiosk.view.gui.music.Music" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/music/Music.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1516" y="1540"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.cafekiosk.main.CafeMainEX" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/main/CafeMainEX.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="193" width="226" x="1673" y="1229"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.cafekiosk.main.AdminMain" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/main/AdminMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-111" y="4555"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.cafekiosk.view.gui.admin.AdminSwitchPanel" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/admin/AdminSwitchPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="500" width="401" x="63" y="232"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.cafekiosk.view.gui.admin.AdminGUIMainPanel" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/admin/AdminGUIMainPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="248" width="352" x="633" y="420"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.cafekiosk.view.gui.admin.SchedulePanel" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/admin/SchedulePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-135" y="74"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.cafekiosk.view.gui.admin.OrderPanel" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/admin/OrderPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="339" y="1090"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.cafekiosk.view.gui.admin.RecipePanel" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/admin/RecipePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="95" y="76"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.cafekiosk.view.gui.admin.StockPanel" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/admin/StockPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-29" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.cafekiosk.view.gui.member.OrderList" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/OrderList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3687" y="803"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.cafekiosk.view.gui.member.JoinMember" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/JoinMember.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1950" y="2656"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.cafekiosk.view.gui.member.Order" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/Order.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3672" y="1530"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.cafekiosk.view.gui.member.MemberSwitchPanel" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/MemberSwitchPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="446" width="339" x="2825" y="422"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.cafekiosk.view.gui.member.Event" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/Event.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3163" y="81"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.cafekiosk.view.gui.member.Gamepage" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/Gamepage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2913" y="88"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.cafekiosk.view.gui.member.MemberMainPanel" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/MemberMainPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="305" width="240" x="2385" y="567"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.cafekiosk.view.gui.member.MenuBar" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/MenuBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2515" y="80"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.cafekiosk.view.gui.member.MemberInfoModify" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/MemberInfoModify.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2649" y="1393"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.cafekiosk.view.gui.member.MenuChoice" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/MenuChoice.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3388" y="1507"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.cafekiosk.view.gui.member.MemberMyPage" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/MemberMyPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2879" y="1407"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.cafekiosk.view.gui.member.menus.Mango" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/menus/Mango.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3668" y="293"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.cafekiosk.view.gui.member.menus.CaffeLatte" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/menus/CaffeLatte.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3670" y="174"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.cafekiosk.view.gui.member.menus.MenuIntroduce" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/menus/MenuIntroduce.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="161" width="229" x="3546" y="467"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.cafekiosk.view.gui.member.menus.Tea" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/menus/Tea.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3666" y="408"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.cafekiosk.view.gui.member.menus.Americano" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/menus/Americano.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3480" y="61"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.cafekiosk.view.gui.member.menus.Javachip" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/gui/member/menus/Javachip.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3668" y="61"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.cafekiosk.view.member.msg.CheckIdAlready" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/member/msg/CheckIdAlready.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1743" y="2615"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.cafekiosk.view.member.msg.CongratulationRegister" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/member/msg/CongratulationRegister.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2162" y="2367"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="com.cafekiosk.view.member.msg.CheckMsgOrder" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/member/msg/CheckMsgOrder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3712" y="1133"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.cafekiosk.view.member.msg.CheckMsgId" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/member/msg/CheckMsgId.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2149" y="2506"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="com.cafekiosk.view.member.msg.ModifyOKCheck" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/member/msg/ModifyOKCheck.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3092" y="1368"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="com.cafekiosk.view.console.AdminView" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/view/console/AdminView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="137" y="4548"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.cafekiosk.controller.CafeMemberController" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/controller/CafeMemberController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="498" width="449" x="2764" y="3548"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.cafekiosk.controller.CafeOrderController" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/controller/CafeOrderController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="283" width="579" x="2113" y="3643"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.cafekiosk.controller.CafeAdminController" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/controller/CafeAdminController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="633" width="522" x="920" y="4121"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.cafekiosk.controller.CafeAdminGUIController" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/controller/CafeAdminGUIController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="577" y="2909"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.cafekiosk.model.dao.CafeDAO" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/model/dao/CafeDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="452" x="1831" y="4503"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="40" language="java" name="com.cafekiosk.interfaces.CafeDAOInterface" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/interfaces/CafeDAOInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2012" y="5076"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="41" language="java" name="com.cafekiosk.interfaces.CafeMemberControllerInterface" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/interfaces/CafeMemberControllerInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2980" y="4308"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="42" language="java" name="com.cafekiosk.interfaces.CafeOrderControllerInterface" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/interfaces/CafeOrderControllerInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2512" y="4323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="43" language="java" name="com.cafekiosk.model.vo.Ingredient" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/model/vo/Ingredient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="337" y="5685"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="com.cafekiosk.model.vo.Member" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/model/vo/Member.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3310" y="5312"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="com.cafekiosk.model.vo.MenuItem" project="MiniProject" 
+    file="/MiniProject/src/com/cafekiosk/model/vo/MenuItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="880" y="5535"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="46">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="47" name="memberAll"/>      
+      <multiplicity id="48" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="50" name="sp"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="53" name="ma"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="56" name="cmi"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="59" name="cmc"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="62" name="mainFrame"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="64">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="41"/>  
+  </realization>  
+  <association id="65">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="66" name="gp"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="69" name="ame"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="72" name="msp"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="74">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <association id="75">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="76" name="mainFrame"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="79" name="cms"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="81">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <association id="82">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="83" name="cmc"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="85">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <association id="86">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="87" name="m"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="89">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="90" name="cmc"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="92">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="93" name="asp"/>      
+      <multiplicity id="94" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="95">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="96" name="cac"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="98">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="99" name="e"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="101">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="102" name="mainFrame"/>      
+      <multiplicity id="103" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="105" name="o"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="107">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="108">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="109">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="110" name="msp"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="113" name="asp"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="116" name="schep"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="118">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="119" name="mc"/>      
+      <multiplicity id="120" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="121">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="122" name="cia"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="125" name="cmc"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="127">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="128" name="o"/>      
+      <multiplicity id="129" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="130">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="131" name="cagc"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="133">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="134" name="msp"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="137" name="cr"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="139">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="140">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="141" name="msp"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="144" name="msp"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="146">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="147">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="148" name="cmo"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="150">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <realization id="151">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="42"/>  
+  </realization>  
+  <dependency id="152">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <association id="153">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="154" name="mainFrame"/>      
+      <multiplicity id="155" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="157" name="msp"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="160" name="msp"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="163" name="asp"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="166" name="dao"/>      
+      <multiplicity id="167" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="168">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="169" name="msp"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="171">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="172" name="cagc"/>      
+      <multiplicity id="173" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="174">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="175" name="m"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="177">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="178" name="cmc"/>      
+      <multiplicity id="179" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="180">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <association id="181">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="182" name="cmc"/>      
+      <multiplicity id="183" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="184">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="185" name="mainMenu"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="187">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="188" name="cmc"/>      
+      <multiplicity id="189" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="190">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="191" name="cmc"/>      
+      <multiplicity id="192" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="193">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="194" name="jv"/>      
+      <multiplicity id="195" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="196">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="197" name="moc"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="199">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="200">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <realization id="201">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="40"/>  
+  </realization>  
+  <association id="202">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="203" name="msp"/>      
+      <multiplicity id="204" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="205">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="206" name="t"/>      
+      <multiplicity id="207" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="208">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="209">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="210" name="msp"/>      
+      <multiplicity id="211" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="212">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="213" name="mainFrame"/>      
+      <multiplicity id="214" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="215">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="216" name="msp"/>      
+      <multiplicity id="217" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="218">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="219" name="mainFrame"/>      
+      <multiplicity id="220" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="221">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <association id="222">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="223" name="mb"/>      
+      <multiplicity id="224" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="225">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="226" name="cmc"/>      
+      <multiplicity id="227" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="228">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="229" name="mc"/>      
+      <multiplicity id="230" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="231">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="232" name="agmp"/>      
+      <multiplicity id="233" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="234">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="235">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <association id="236">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="237" name="msp"/>      
+      <multiplicity id="238" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="239">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="240">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <association id="241">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="242" name="ol"/>      
+      <multiplicity id="243" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="244">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="245" name="mi"/>      
+      <multiplicity id="246" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="247">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="248" name="msp"/>      
+      <multiplicity id="249" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="250">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <association id="251">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="252" name="mmp"/>      
+      <multiplicity id="253" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="254">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="255" name="msp"/>      
+      <multiplicity id="256" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="257">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="258" name="cl"/>      
+      <multiplicity id="259" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="260">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="261" name="mypage"/>      
+      <multiplicity id="262" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="263">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="264" name="asp"/>      
+      <multiplicity id="265" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="266">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="267" name="msp"/>      
+      <multiplicity id="268" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="269">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="270" name="dao"/>      
+      <multiplicity id="271" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="272">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="273">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="274">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="275" name="cmc"/>      
+      <multiplicity id="276" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="277">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="278" name="msp"/>      
+      <multiplicity id="279" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="281" name="msp"/>      
+      <multiplicity id="282" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="283">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="284">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="285">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="286" name="asp"/>      
+      <multiplicity id="287" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="288">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="289">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="290" name="jm"/>      
+      <multiplicity id="291" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="292">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="293" name="mif"/>      
+      <multiplicity id="294" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="295">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="296" name="msp"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="298">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="299">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="300" name="cac"/>      
+      <multiplicity id="301" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="302">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="303" name="asp"/>      
+      <multiplicity id="304" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="305">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="306" name="rp"/>      
+      <multiplicity id="307" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="308">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <association id="309">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="310" name="mainFrame"/>      
+      <multiplicity id="311" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="312">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="313" name="m"/>      
+      <multiplicity id="314" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="315">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="316" name="coc"/>      
+      <multiplicity id="317" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="318">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <association id="319">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="320" name="cagc"/>      
+      <multiplicity id="321" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="322">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="323" name="msp"/>      
+      <multiplicity id="324" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="325">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="326" name="op"/>      
+      <multiplicity id="327" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
